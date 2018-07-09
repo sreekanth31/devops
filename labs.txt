@@ -13,3 +13,7 @@ Oregon us-west-2b
 tomcat(without root manager)with jenkins--->http://ec2-18-237-72-49.us-west-2.compute.amazonaws.com:8080/jenkins/login?from=%2Fjenkins
 
 loadbalancer(userdata)---> http://webflowlb-1783119806.us-west-2.elb.amazonaws.com/
+
+Singapore ap-southeast-1
+------------------------
+applicationlb(ubuntu)--->http://applicationlb-1154171250.ap-southeast-1.elb.amazonaws.com/
