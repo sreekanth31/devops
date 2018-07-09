@@ -1,0 +1,15 @@
+s3 static web hosting---https://s3.amazonaws.com/aws-devops-demo/index.html 
+
+N.Varginia us-east-1a
+---------------------
+nginx server--->http://ec2-52-20-178-56.compute-1.amazonaws.com/
+
+tomcat(with root manager)with jenkins--->http://ec2-18-209-0-28.compute-1.amazonaws.com:8080/jenkins/login?from=%2Fjenkins
+
+loadbalancer(apacheservers)rhel--->http://loadbalancer-735360640.us-east-1.elb.amazonaws.com/
+
+Oregon us-west-2b
+---------------------
+tomcat(without root manager)with jenkins--->http://ec2-18-237-72-49.us-west-2.compute.amazonaws.com:8080/jenkins/login?from=%2Fjenkins
+
+loadbalancer(userdata)---> http://webflowlb-1783119806.us-west-2.elb.amazonaws.com/
