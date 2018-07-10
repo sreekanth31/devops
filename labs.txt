@@ -17,3 +17,5 @@ loadbalancer(userdata)---> http://webflowlb-1783119806.us-west-2.elb.amazonaws.c
 Singapore ap-southeast-1
 ------------------------
 applicationlb(ubuntu)--->http://applicationlb-1154171250.ap-southeast-1.elb.amazonaws.com/
+
+route53---> http://devops.awsblog.cf/
