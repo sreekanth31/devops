@@ -21,3 +21,10 @@ applicationlb(ubuntu)--->http://applicationlb-1154171250.ap-southeast-1.elb.amaz
 route53---> http://devops.awsblog.cf/
 
 s3_AWS_route53_reinvent--->http://s3.awsblog.cf/
+
+cloudformation N.Varginia us-east-1a
+-------------------------------------
+
+lamp stack---->http://lamp.awsblog.cf/
+
+wordpress stack---->http://wp.awsblog.cf/
