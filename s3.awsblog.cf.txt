@@ -10,7 +10,12 @@ step1:goto aws s3 resource console
 step2:goto route53 resource console
      -click hosted zone which created
 	  -select the domain name,goto record sets
-	   -
+	   -create record sets 
+	        give name as bucketname which u have created in s3
+			alias - yes
+			click on create
+			 
+	   
 	  
 	  
 	  
