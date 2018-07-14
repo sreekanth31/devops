@@ -28,3 +28,5 @@ cloudformation N.Varginia us-east-1a
 lamp stack---->http://lamp.awsblog.cf/
 
 wordpress stack---->http://wp.awsblog.cf/
+
+splunk ---->http://ec2-34-218-254-32.us-west-2.compute.amazonaws.com:8000
