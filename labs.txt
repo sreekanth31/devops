@@ -1,3 +1,6 @@
+
+*****ALL ENDPOINTS ARE TERMINATED
+
 s3 static web hosting---https://s3.amazonaws.com/aws-devops-demo/index.html 
 
 N.Varginia us-east-1a
